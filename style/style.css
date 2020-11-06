@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&display=swap');
+
+
+.main-wrapper{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.header{
+
+background-color: yellow;
+    width: 100%;
+    
+
+}
+
+.header h1 {
+    margin: 0 39%;
+    padding: 20px 0;
+    color: #07F;
+    font-size: 35px;
+    font-family: 'Chilanka', cursive;
+}
+.menu{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+}
+
+.content-area{
+    float: right;
+    width: 80%;
+    height: auto;
+    background-color: cornsilk;
+}
+.sidebar{
+    float: left;
+    width: 20%;
+    height: auto;
+    background-color: red;
+
+}
+
+
+
+
+#cats h4{
+    font-size: 38px;
+    margin: 8px 83px;
+    color: #FF9;
+
+    
+}
+#cats ul{
+    margin: 0 96px;
+    color: #fff;
+    list-style: none;
+    font-size: 24px;
+
+}
+#cats ul li{
+    
+}
+#cats ul li a{
+    
+}
+#brands h4{
+    font-size: 38px;
+    margin: 8px 70px;
+    color: #FF9;
+
+}
+#brands-item{
+    margin: 0 96px;
+    color: #fff;
+    list-style: none;
+    font-size: 24px;
+}
+
+
+
+
+.footer{
+    height: auto;
+    width: 100%;
+    background-color: gray;
+}
+
+.navbar{
+font-family: 'Chilanka', cursive;
+color: #fff;
+}
+.navbar a{
+    color: #fff;
+}
+
+
+#cats{
+
+
+
+}
+
+
+#product_box{
+
+width: 900px;
+text-align: center;
+margin-left: 30px;
+margin-bottom: 10px;
+
+}
+
+#single_product{
+
+    float: left;
+    margin-left: 20px;
+    padding: 10px;
+
+
+}
+.sidebar {
+    float: left;
+    width: 20%;
+    height: auto;
+    background-color: #000;
+}
+
+#cats {
+    margin: 5rem 0;
+}
+
+#cats h4 {
+    font-size: 38px;
+    margin: 8px 83px;
+    color: #fff;
+    
+    
+}
+
+#cats ul li a {
+    color: #FF9;
+}
+
+#cats ul li a:hover {
+    color: #F79;
+}
+
+#brands {
+    margin: 5rem 0;
+}
+
+#brands h4 {
+    font-size: 38px;
+    margin: 8px 83px;
+    color: #fff;
+    
+    
+}
+
+#brands ul li a {
+    color: #FF9;
+}
+
+#brands ul li a:hover {
+    color: #F88;
+}
+
+#cats h4 {
+    font-size: 38px;
+    margin: 10px 50px;
+    color: #fff;
+}
+
+#brands h4 {
+    font-size: 38px;
+    margin: 10px 50px;
+    color: #fff;
+}
+
+#product_chart{
+    width: 100%;
+    background-color: #000;
+    height:50px ;
+
+}
+
+#product_chart span{
+
+
+    float: right;
+    color: white;
+    line-height: 40px;
+    padding: 5px;
+}
+
+#product_chart span b{
+    color: yellow;
+}
+
+body {
+    background-color: #000;
+}
+
+.main-wrapper {
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+#cats h4 {
+    font-size: 38px;
+    margin: 0 0;
+    color: #fff;
+}
+#cats ul {
+    margin: 0 0;
+    color: #fff;
+    list-style: none;
+    font-size: 24px;
+    padding: 0 50px;
+}
+#cats h4 {
+    font-size: 38px;
+    margin: 0 0;
+    color: #fff;
+    background-color: #B6B6B6;
+    padding: 10px 33px;
+}
+
+#cats h4:hover{
+    font-size: 38px;
+    margin: 0 0;
+    color: #fff;
+    background-color: #000000;
+    padding: 10px 33px;
+}
+#cats {
+    margin: 50px 0;
+}
+#brands ul {
+    margin: 0 0;
+    color: #fff;
+    list-style: none;
+    font-size: 24px;
+    padding: 0 50px;
+}
+#brands h4 {
+    font-size: 38px;
+    margin: 0 0;
+    color: #fff;
+    background-color: #B6B6B6;
+    padding: 10px 33px;
+}
+
+#brands h4:hover{
+    font-size: 38px;
+    margin: 0 0;
+    color: #fff;
+    background-color: #000000;
+    padding: 10px 33px;
+}
+#brands {
+    margin: 50px 0;
+}
+
+#brands ul {
+    margin: 0 0;
+    color: #fff;
+    list-style: none;
+    font-size: 24px;
+    padding: 29px 76px;
+}
+#product{
+
+    float:left;
+     margin-left: 20px;
+    padding: 10px;
+
+}
+#product h4{
+    font-family: cursive;
+     padding:10px;
+}
+
+#product img{
+
+
+    width:200px;
+     height:200px;
+      border:2px solid black;
+}
