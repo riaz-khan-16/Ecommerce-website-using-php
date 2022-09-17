@@ -1,1 +1,1 @@
-# Ecommerce
+This is an ecommerce web site. I made this website using raw php. It takes 12 days for me to develop the website from scracth. I took helop from different youtube videos, w3schhol and some other tutorials. As a beginner it helps me a lot to understand about the backend development using php.
